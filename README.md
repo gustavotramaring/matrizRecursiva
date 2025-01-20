@@ -27,7 +27,7 @@ Este projeto contém um exemplo de como criar e exibir uma matriz de forma recur
 
 1. Clone o repositório para o seu computador:
 
-   git clone https://github.com/gustavotramaring/matriz-recursiva.git
+   git clone https://github.com/gustavotramaring/matrizRecursiva.git
 
 2. Navegue até o diretório do projeto:
    
