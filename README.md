@@ -40,15 +40,15 @@ Este projeto contém um exemplo de como criar e exibir uma matriz de forma recur
 
 ##Exemplo de execução
 
-Digite o número de linhas: 2
-Digite o número de colunas: 3
-Digite o valor para a posição [0][0]: 1
-Digite o valor para a posição [0][1]: 2
-Digite o valor para a posição [0][2]: 3
-Digite o valor para a posição [1][0]: 4
-Digite o valor para a posição [1][1]: 5
-Digite o valor para a posição [1][2]: 6
+- Digite o número de linhas: 2
+- Digite o número de colunas: 3
+- Digite o valor para a posição [0][0]: 1
+- Digite o valor para a posição [0][1]: 2
+- Digite o valor para a posição [0][2]: 3
+- Digite o valor para a posição [1][0]: 4
+- Digite o valor para a posição [1][1]: 5
+- Digite o valor para a posição [1][2]: 6
 
 Matriz criada:
-1 2 3
-4 5 6
+- 1 2 3
+- 4 5 6
